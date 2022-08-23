@@ -7,5 +7,6 @@ setuptools.setup(
     description="Converts XML to a dictionary. Can take inputs from URL, a file and binary data",
     long_description="Converts XML to a dictionary. Can take inputs from URL, a file and binary data",
     url="https://github.com/nerdlertech/nerdlerxml",
-    packages=["nerdlerxml"]
+    packages=["nerdlerxml"],
+    keywords=["xml","converter","dictionary","dict"]
 )
