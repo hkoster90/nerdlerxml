@@ -4,7 +4,7 @@ Converts XML to a dictionary. Can take inputs from URL, a file and binary data. 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install nerdlerxml.
+Use the package manager [pip](https://pypi.org/project/nerdlerxml/) to install nerdlerxml.
 
 ```bash
 pip install nerdlerxml
