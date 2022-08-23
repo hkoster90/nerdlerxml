@@ -27,7 +27,7 @@ from nerdlerxml import nerdlerxml
 
 filepath = "example.xml"
 
-# returns the dictionary of url
+# returns the dictionary of file
 result = nerdlerxml(filepath=filepath).to_dict()
 ```
 
@@ -40,7 +40,7 @@ filepath = "example.xml"
 with open(filepath, "rb") as f:
     data = f.read()
 
-# returns the dictionary of url
+# returns the dictionary of binary
 result = nerdlerxml(fileobject=data).to_dict()
 ```
 
