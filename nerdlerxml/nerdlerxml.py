@@ -1,7 +1,7 @@
 '''
 Author: Hendrik Koester
 Date: 23/08/2022
-Version: 1.0.0
+Version: 1.0.1
 '''
 import requests
 from lxml import etree
